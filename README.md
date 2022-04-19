@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @jodasovi18
+- 👀 I’m interested in every thing that could represent a challenge for me and also could bring me out of my confort zone.
+- 🌱 Currently learning about Python and the different uses it has, once i finish it I want to take an specific data science with Python course.
+- 💞️ Looking to collaborate on projects where I would be able to contribute with my knowledge and my desire to improve as a developer.
+- 📫 E-mail: jodasolvil@gmail.com 
